@@ -3,17 +3,19 @@ import BaseHead from '../components/BaseHead.astro';
 import BlogHeader from '../components/BlogHeader.astro';
 import BlogFooter from '../components/BlogFooter.astro';
 import { Post } from '../collections/posts';
+import MainLayout from '../layouts/MainLayout.astro';
 
 const { content } = Astro.props;
 const { title, description, publishDate, author, heroImage, permalink, alt } = content;
 ---
+<style>
+	@import "../styles/blog.css";
+</style>
 
-<html lang={content.lang || 'en'}>
-	<head>
-		<BaseHead {title} {description} {permalink} />
-	</head>
+<MainLayout>
+		<!-- <BaseHead {title} {description} {permalink} /> -->
 
-	<body>
+	
 		<BlogHeader />
 		<div class="wrapper">
 			<Post {title} {author} {heroImage} {publishDate} {alt}>
@@ -21,5 +23,4 @@ const { title, description, publishDate, author, heroImage, permalink, alt } = c
 			</Post>
 		</div>
 		<BlogFooter />
-	</body>
-</html>
+</MainLayout>

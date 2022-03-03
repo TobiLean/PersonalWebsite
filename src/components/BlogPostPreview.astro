@@ -52,4 +52,20 @@ const { post } = Astro.props;
 		font-weight: 700;
 		color: var(--theme-text);
 	}
+
+	a {
+	font-weight: 400;
+	text-decoration: none;
+}
+
+a:hover,
+a:focus {
+	text-decoration: underline;
+}
+
+a:focus {
+	outline: 2px solid currentColor;
+	outline-offset: 0.25em;
+}
+
 </style>
