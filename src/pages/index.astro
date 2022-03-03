@@ -149,6 +149,64 @@ allPosts = allPosts.sort((a, b) => new Date(b.publishDate).valueOf() - new Date(
             </div>
         </div>
     </section>
+    <!-- Contact Section -->
+    <section class="page-section" id="contact">
+        <div class="container">
+            <!-- Contact Section Heading-->
+            <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Me</h2>
+            <!-- Icon Divider-->
+            <div class="divider-custom">
+                <div class="divider-custom-line"></div>
+                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                <div class="divider-custom-line"></div>
+            </div>
+            <!-- Contact Section Form-->
+            <div class="row justify-content-center">
+                <div class="col-lg-8 col-xl-7">
+                    <!-- * * * * * * * * * * * * * * *-->
+                    <!-- * * SB Forms Contact Form * *-->
+                    <!-- * * * * * * * * * * * * * * *-->
+                    <!-- This form is pre-integrated with SB Forms.-->
+                    <!-- To make this form functional, sign up at-->
+                    <!-- https://startbootstrap.com/solution/contact-forms-->
+                    <!-- to get an API token!-->
+                    <form name="contact" method="POST" data-netlify="true">
+                        <!-- Name input-->
+                        <p>
+                            <label>Your Name: <input type="text" name="name" /></label>   
+                        </p>
+                        <!-- Email address input-->
+                        <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+                        <!-- Message input-->
+                       <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+                        <!-- Submit success message-->
+                        <!---->
+                        <!-- This is what your users will see when the form-->
+                        <!-- has successfully submitted-->
+                        <div class="d-none" id="submitSuccessMessage">
+                            <div class="text-center mb-3">
+                                <div class="fw-bolder">Form submission successful!</div>
+                                
+                            </div>
+                        </div>
+                        <!-- Submit error message-->
+                        <!---->
+                        <!-- This is what your users will see when there is-->
+                        <!-- an error submitting the form-->
+                        <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3">Error sending message!</div></div>
+                        <!-- Submit Button-->
+                        <p>
+    <button type="submit">Send</button>
+  </p>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- Portfolio Modals-->
     <!-- Portfolio Modal 1-->
