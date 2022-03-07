@@ -2,7 +2,7 @@
 title: Before I push
 publishDate: 03 Mar 2022
 author: Oluwatobiloba Segun-Lean
-authorURL: https://twitter.com/_tobilean
+authorURL: t.segunlean.com
 description: First post before I add the custom domain and share
 heroImage: /assets/blog/post_bg-01.png
 setup: |-
