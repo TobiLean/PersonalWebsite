@@ -10,7 +10,9 @@ setup: |-
   import Components from '../../components';
   const { Author } = Components;
 ---
-This won't take long.\
+This won't take long.
+
+Finally got the domain working :) will share the website link on whatsapp minutes from writing this post.\
 \
 If you haven't already read the purpose of this site at the bottom of the home page then you might want to.
 
