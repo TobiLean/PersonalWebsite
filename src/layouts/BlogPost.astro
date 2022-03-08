@@ -8,6 +8,9 @@ import MainLayout from '../layouts/MainLayout.astro';
 const { content } = Astro.props;
 const { title, description, publishDate, author, heroImage, permalink, alt } = content;
 ---
+<!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+
 <style>
 	@import "../styles/blog.css";
 </style>
