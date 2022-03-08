@@ -10,7 +10,7 @@ setup: |-
   import Components from '../../components';
   const { Author } = Components;
 ---
-I originally did not want to write anything, but I had to anyways because I said I would post everyday.
+I originally did not want to write anything, but I had to anyways because I said I would post every day.
 
 ## 1. Tunda Game
 
