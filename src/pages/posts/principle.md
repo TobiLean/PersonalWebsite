@@ -10,7 +10,7 @@ setup: |-
   import Components from '../../components';
   const { Author } = Components;
 ---
-I originally did not want to write anything, but I had to anyways because I said I would.
+I originally did not want to write anything, but I had to anyways because I said I would post everyday.
 
 ## 1. Tunda Game
 
@@ -27,8 +27,6 @@ I picked up a book not too long ago about mindsets and how to change them.
 ### And..
 
 The other thing I have failed to complete is my language course. I applied for and started a Japanese language course because I felt the need to learn a second language and Japanese was a language I had been interested in. Although I haven't been doing it daily, I can successfully order a cup of coffee and tell someone I'd yes (Hai) :D
-
-
 
 ## 3. What am I going to do about it?
 
