@@ -26,7 +26,7 @@ I picked up a book not too long ago about mindsets and how to change them.
 
 ### And..
 
-The other thing I have failed to complete is my language course. I applied for and started a Japanese language course because I felt the need to learn a second language and Japanese was a language I had been interested in. Although I haven't been doing it daily, I can successfully order a cup of coffee and tell someone yes (Hai) :D
+The other thing I have failed to complete is my language course. I applied for and started a Japanese language course because I felt the need to learn a second language and Japanese is a language I had been interested in. Although I haven't been doing it daily, I can successfully order a cup of coffee and tell someone yes (Hai) :D
 
 ## 3. What am I going to do about it?
 
