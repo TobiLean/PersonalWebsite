@@ -12,8 +12,6 @@ setup: |-
 ---
 So in the previous post I said something about writing everyday bla bla bla.... well it did not happen and I do not have any plans at the moment to make it happen so yes I overestimated my character.
 
-
-
 ## 1. Shaun
 
 So I did not submit anything for the game competition :( but it's fine. I have decided to push everything GameMaker and Dodomush away, I just totally lost interest. I served it's purpose(I can't say what it was) and it served it well so for now Dodomush is on the bench.
@@ -24,11 +22,9 @@ I am excited to say I successfully completed my Japanese course with a certifica
 
 ![](/assets/blog/iclr_certificate_tobi.png)
 
-
-
 Don't mess with me! 
 
-## **And..**C#
+## And..C#
 
 I completed the book on C# (Pronounced CSharp) and I'm really happy I did because it takes me closer to some of my goals. 
 
